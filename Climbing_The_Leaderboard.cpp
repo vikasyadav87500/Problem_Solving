@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-
+// Climbing the Ladder
 int main()
 {int num1=0,num2,n,m,*arr1,c=0,num;
  cin>>n;
